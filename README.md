@@ -1,7 +1,7 @@
 # Weather
 ### 抓取国内天气状况,自带天气图片～
 ##### 数据效果一览：
-<img src="static/preview.png" style="width:300px">
+<img src="static/preview.png" >
 
 
 ##### 数据抓取源：<a href="http://3g.tianqi.cn/" target="_blank" >中国气象频道</a>
