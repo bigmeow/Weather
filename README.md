@@ -1,7 +1,7 @@
 # Weather
 ### 抓取国内天气状况,自带天气图片～
 ##### 数据效果一览：
-<img src="static/preview.png">
+<img src="static/preview.png" style="width:300px">
 
 
 ##### 数据抓取源：<a href="http://3g.tianqi.cn/" target="_blank" >中国气象频道</a>
@@ -45,7 +45,7 @@
 	"threeWeatherd": "19.1",
 	"beans": [],
 	"tmax": "34",/*今日最大气温*/
-	"tmin": "19"
+	"tmin": "19"/*今日最小气温*/
 }
 ```
 ##### 接口具体使用方法见:
